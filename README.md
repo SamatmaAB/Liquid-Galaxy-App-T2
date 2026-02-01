@@ -33,4 +33,3 @@ A basic Flutter application designed to control a Liquid Galaxy rig via SSH. Thi
 -   **Home City:** Mysore, India (Coordinates: 12.3051° N, 76.6551° E).
 
 ---
-*Created as part of the Google Summer of Code (GSoC) selection process for Liquid Galaxy.*
