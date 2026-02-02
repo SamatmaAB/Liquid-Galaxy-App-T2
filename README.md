@@ -17,8 +17,8 @@ A basic Flutter application designed to control a Liquid Galaxy rig via SSH. Thi
     -   `connections/ssh.dart`: Handles all SSH logic and KML generation.
     -   `screens/home_screen.dart`: The main UI with action buttons.
 -   `kmls/`: Standalone `.kml` files generated and used by the app.
-    -   `slave_1.kml`: The Liquid Galaxy Logo overlay.
-    -   `master.kml`: The 3D Coloured Pyramid.
+    -   `logo.kml`: The Liquid Galaxy Logo overlay.
+    -   `p.yramid.kml`: The 3D Coloured Pyramid.
 -   `android/`: Android-specific configuration for the release build.
 
 ## 🛠️ Requirements
